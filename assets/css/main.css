@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply flex
+      p-2
+      border
+      border-blue-400
+      items-center
+      justify-center;
+  }
+}
