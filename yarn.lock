@@ -2016,10 +2016,10 @@
     std-env "^2.3.0"
     ufo "^0.7.4"
 
-"@nuxt/content@2.4.1":
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/@nuxt/content/-/content-2.4.1.tgz#b302fb2762d869b9413721e53ea745371faa1004"
-  integrity sha512-p9QWo/Erl75inMPZd+9ez9F60Mgua+vQK55R4QOgnBv2EbtVGM0wAm159u5WBHw0k6VbrT/ULvwQf+xMOHQ+kg==
+"@nuxt/content@2.4.2":
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/@nuxt/content/-/content-2.4.2.tgz#d297385aa2a060de22e070f902390833f2a202ed"
+  integrity sha512-Nz2ZcC7R505UY5NQN+WE1pZ4ie8PBBr12qJHFAZqhWCXenzsdb87p48fvr6Zhlj8CyCTQqWg0B2fs7Lyg/CKwg==
   dependencies:
     "@nuxt/kit" "3.1.1"
     consola "^2.15.3"
@@ -5733,12 +5733,7 @@ defu@^5.0.0:
   resolved "https://registry.yarnpkg.com/defu/-/defu-5.0.1.tgz#a034278f9b032bf0845d261aa75e9ad98da878ac"
   integrity sha512-EPS1carKg+dkEVy3qNTqIdp2qV7mUP08nIsupfwQpz++slCVRw7qbQyWvSTig+kFPwz2XXp5/kIIkH+CwrJKkQ==
 
-defu@^6.0.0, defu@^6.1.1:
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/defu/-/defu-6.1.1.tgz#a12c712349197c545dc61d3cd3b607b4cc7ef0c1"
-  integrity sha512-aA964RUCsBt0FGoNIlA3uFgo2hO+WWC0fiC6DBps/0SFzkKcYoM/3CzVLIa5xSsrFjdioMdYgAIbwo80qp2MoA==
-
-defu@^6.1.2:
+defu@^6.0.0, defu@^6.1.1, defu@^6.1.2:
   version "6.1.2"
   resolved "https://registry.yarnpkg.com/defu/-/defu-6.1.2.tgz#1217cba167410a1765ba93893c6dbac9ed9d9e5c"
   integrity sha512-+uO4+qr7msjNNWKYPHqN/3+Dx3NFkmIzayk2L1MyZQlvgZb/J1A0fo410dpKrN2SnqFjt8n4JL8fDJE0wIgjFQ==
@@ -12090,12 +12085,7 @@ path-type@^5.0.0:
   resolved "https://registry.yarnpkg.com/path-type/-/path-type-5.0.0.tgz#14b01ed7aea7ddf9c7c3f46181d4d04f9c785bb8"
   integrity sha512-5HviZNaZcfqP95rwpv+1HDgUamezbqdSYTyzjTvwtJSnIH+3vnbmWsItli8OFEndS984VT55M3jduxZbX351gg==
 
-pathe@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/pathe/-/pathe-1.0.0.tgz#135fc11464fc57c84ef93d5c5ed21247e24571df"
-  integrity sha512-nPdMG0Pd09HuSsr7QOKUXO2Jr9eqaDiZvDwdyIhNG5SHYujkQHYKDfGQkulBxvbDHz8oHLsTgKN86LSwYzSHAg==
-
-pathe@^1.1.0:
+pathe@^1.0.0, pathe@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/pathe/-/pathe-1.1.0.tgz#e2e13f6c62b31a3289af4ba19886c230f295ec03"
   integrity sha512-ODbEPR0KKHqECXW1GoxdDb+AZvULmXjVPy4rt+pGo2+TnjJTIPJQSVS6N63n8T2Ip+syHhbn52OewKicV0373w==
